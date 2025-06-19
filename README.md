@@ -1,1 +1,1 @@
-# Image-compresor
+#Build a full-stack web app that compresses an image by reducing the number of colors using a KNN algorithm implemented from scratch , and displays both the compressed image and the extracted color palette in a modern UI.
